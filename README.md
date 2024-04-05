@@ -95,7 +95,6 @@ Refer to the [Dockerfile]().
 ## Related GitHub Repository
 
 - [PolySI](https://github.com/amnore/PolySI)
-- [PolySI+](https://github.com/hengxin/smt-transactional-consistency-artifact/tree/si)
 - [Viper](https://github.com/Khoury-srg/Viper)
 - [elle](https://github.com/jepsen-io/elle)
 - [elle-cli](https://github.com/ligurio/elle-cli)
